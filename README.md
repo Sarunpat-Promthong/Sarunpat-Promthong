@@ -1,6 +1,6 @@
 ### Sarunpat Promthong
 
-Frontend Developer based in Trang, Thailand — building production web
+Frontend Developer — building production web
 applications with **React**, **Next.js** and **TypeScript**.
 
 **What I work on**
