@@ -1,6 +1,6 @@
 ### Sarunpat Promthong
 
-Frontend Developer — building production web
+Software Developer — building production web
 applications with **React**, **Next.js** and **TypeScript**.
 
 **What I work on**
