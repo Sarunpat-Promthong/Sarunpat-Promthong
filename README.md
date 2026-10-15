@@ -1,21 +1,27 @@
 ### Sarunpat Promthong
 
-Software Developer — building production web
-applications with **React**, **Next.js** and **TypeScript**.
+Software Developer in Thailand, working across web, mobile and backend
+with **Next.js**, **React Native**, **TypeScript** and **Node.js**.
+
+🌐 **Portfolio:** https://sarunpat-promthong.github.io
 
 **What I work on**
 
-- Customer-facing e-commerce features — course catalog, registration,
-  login, checkout and payment flow
-- Internal operations systems used daily by staff — attendance tracking
-  and class scheduling
+- [Hipsbook](https://www.hipsbook.com), an online course platform: sign-up,
+  OTP verification, login, course catalog, checkout and payment, on both
+  the Next.js website and the React Native app
+- Internal operations systems used daily by staff: attendance tracking
+  and class scheduling (Vue)
 
 Most of my day-to-day work lives in private company repositories, so the
-public repos here are personal and university projects.
+public repos here are personal and university projects. The portfolio
+shows screenshots of the production work.
 
 **Tech**
 
-`JavaScript` `TypeScript` `React` `Next.js` `HTML/CSS`
-`Git` `Firebase` `Vue` `Node.js` `MySQL`
+- **Web:** `TypeScript` `JavaScript` `React` `Next.js` `Vue` `Tailwind CSS`
+- **Mobile:** `React Native`
+- **Backend & data:** `Node.js` `Python` `MySQL` `MongoDB` `Firebase`
+- **Tools:** `Git` `Postman` `Swagger` `JMeter` `k6`
 
 📫 sarunpatpr.work@gmail.com
